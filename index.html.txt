@@ -1,0 +1,12 @@
+</DOCTYPE html>
+<html>
+    <head>
+         <meta charset="utf-8">
+         <title>ma page test>/title>
+    </head>
+    <body>
+           <p>voici ma page web</p>
+    </body>
+	  </br>
+	  <p></p>
+</html>
