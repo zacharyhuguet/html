@@ -1,0 +1,95 @@
+
+ .time {
+     border: 0px;
+     vertical-align: top;
+     position: relative;
+     top: 0px;
+      color: white;
+      background-color: rgb(122, 189, 22);
+    }
+
+ .jour{
+     border: 1px solid black;
+      color: white;
+      background-color: rgb(122, 189, 22);
+      
+}
+
+ .title{
+    border: 1px solid black;
+       color: white;
+       background-color: rgb(122, 189, 22);
+       
+}
+
+.Anglais{
+    border: 1px solid black;
+       color: black;
+       background-color: yellow
+
+}
+
+.Cybersecurité{
+    border: 1px solid black;
+    color: black;
+    background-color: lightcyan;
+}
+
+.français{
+    border: 1px solid black;
+    color: black;
+    background-color:gold;
+
+}
+
+.mathématiques{
+    border: 1px solid black;
+    color: black;
+    background-color:rosybrown;
+}
+
+.Pause{
+    text-align: center;
+    border: 1px solid black;
+    color: black;
+    background-color:lightgray;
+}
+
+.Supdisposerv{
+    border: 1px solid black;
+    color: black;
+    background-color:lightblue;
+}
+
+.Atpro{
+    border: 1px solid black;
+    color: black;
+    background-color:lightgreen;
+}
+
+.CultureEco{
+    border: 1px solid black;
+    color: black;
+    background-color:orange;
+}
+
+.Devoir{
+    border: 1px solid black;
+    color: black;
+    background-color:lightcoral;
+}
+
+.Certification{
+    border: 1px solid black;
+    color: black;
+    background-color:seagreen;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+body{
+    background-color: slategray;
+}
